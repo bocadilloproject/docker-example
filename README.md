@@ -24,6 +24,6 @@ The example app will then be accessible at [http://localhost:8000](http://localh
 
 Need more info? Read the [Dockerfile]. :+1:
 
-[Bocadillo]: https://github.com/bocadilloproject/bocadillo
+[Bocadillo]: https://bocadilloproject.github.io
 [Docker]: https://docs.docker.com/install/
 [Dockerfile]: Dockerfile
