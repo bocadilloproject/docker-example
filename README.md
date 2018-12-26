@@ -4,7 +4,7 @@ This repo provides an example containerizing an application made with [Bocadillo
 
 ## Install
 
-You just need to have [Docker] installed on your machine. :spouting-whale:
+You just need to have [Docker] installed on your machine. :whale:
 
 ## Usage
 
